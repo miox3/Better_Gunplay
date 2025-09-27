@@ -1,7 +1,7 @@
 # Better_Gunplay
 
 This repository contains only the author's functional analysis and brief descriptions of certain game configuration files (e.g., uasset), and does not include any original game files, images, audio, or verbatim text copied from the games.  
-- The author asserts copyright over the original analysis, comments, and tool scripts created and releases them under the [license name]; however, the copyright for the original game assets belongs to the original rights holders, and this repository does not attempt to sublicense those rights.  
+- The author asserts copyright over the original analysis, comments, and tool scripts created and releases them under the CC-BY-SA-4.0; however, the copyright for the original game assets belongs to the original rights holders, and this repository does not attempt to sublicense those rights.  
 - If any rights holder believes this repository contains copyright-protected material, please contact me via GitHub, and I will cooperate to address the issue.
 
 
